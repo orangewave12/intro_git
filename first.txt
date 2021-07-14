@@ -3,3 +3,4 @@ Gitの勉強をしていきます
 git add
 git commit
 gtt rm
+git status
